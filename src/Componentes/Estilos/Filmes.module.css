@@ -1,0 +1,11 @@
+.filmes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  
+}
+
+.nome {
+  margin: 0.5rem 0%;
+  font-family: Arial, Helvetica, sans-serif;
+}
